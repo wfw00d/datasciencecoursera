@@ -1,2 +1,2 @@
 # datasciencecoursera
-this is for the coursera class
+this is for the coursera series
