@@ -17,4 +17,4 @@
 <li>B</li>
 <li>C</li>
 </ol>
-github.com recognizes some HTML.  <br>it does not recognize links or colors <br>but it does recognize bold, italics, and line break
+github.com recognizes some HTML.  <br>it does not recognize links or colors <br>but it does recognize bold, italics, lists, and line break
